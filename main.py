@@ -23,7 +23,7 @@ async def on_message(message):
       print(embedVal)
       ##print(embedVal)
       for x in waifuList:
-        if x in embedVal and "Claim Rank" not in embedVal:
+        if (x + '"') in embedVal and "Claim Rank" not in embedVal:
           await message.add_reaction("❤️")
           time.sleep(3)
           if shitTalk == True:
