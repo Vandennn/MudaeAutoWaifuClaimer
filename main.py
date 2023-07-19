@@ -28,7 +28,7 @@ async def on_message(message):
           time.sleep(3)
           if shitTalk == True:
             for x in shitTalkList:
-              await message.channel.send("Fuck yall pussy ass bitches")
+              await message.channel.send("------")
               print("done")
 client.run(TOKEN)
 
