@@ -7,3 +7,4 @@ Discord.py-self: https://pypi.org/project/discord.py-self/
 
 
 This is my first ever time posting something onto github so I apologize for the poor formatting.
+WARNING: THIS CAN GET YOUR ACCOUNT BANNED IF YOU ARE TO USE THIS. IF YOU WANT TO MAKE SURE YOU DO NOT GET BANNED ON YOUR MAIN USE AN ALTERNATE ACCOUNT
